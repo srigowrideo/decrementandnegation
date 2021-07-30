@@ -1,0 +1,18 @@
+DEC BYTE PTR[BX]
+DEC WORD PTR[BX]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEG AL 
